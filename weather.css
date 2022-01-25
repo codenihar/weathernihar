@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+
+.card {
+    text-align: center;
+    background-color: rgb(229, 232, 223, 0.8);
+    margin: auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 70%;
+}
+
+.creator-info {
+    text-align: center;
+    background-color: rgb(78, 57, 64, 0.8);
+    padding: 20px;
+    border-radius: 12px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.my-name {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.my-info {
+    color: white;
+    font-size: 15px;
+    font-family: ubuntu;
+}
+
+.nihar-logo {
+    width: 80px;
+    height: 80px;
+}
+
+.search-bar {
+    border-width: 0px;
+    border-radius: 8px;
+    width: 150px;
+    padding-left: 5px;
+    height: 20px;
+}
+
+.search-icon {
+    border-width: 0px;
+    background-color: #e5e8df;
+    transition: 0.2s ease-in-out;
+    height: 20px;
+}
+
+.city {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+.temp {
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    color: grey;
+    font-weight: 600;
+}
+
+.description {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.humidity {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.wind {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.linktree {
+    color: white;
+}
